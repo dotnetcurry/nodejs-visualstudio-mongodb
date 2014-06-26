@@ -1,0 +1,15 @@
+{
+  "name": "NodeMovieList",
+  "version": "0.0.0",
+  "description": "NodeMovieList",
+  "main": "server.js",
+  "author": {
+    "name": "Ravi",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "~4.2.0",
+    "body-parser": "~1.2.0",
+    "mongoose": "~3.8.9"
+  }
+}
